@@ -6,7 +6,6 @@ const jwt = require("jsonwebtoken");
 const JWTSecret = "afjáhfkajbsndlkajsfgpojhjb";
 
 app.use(cors());
-aoisfhaohfoaisjhfasdo
 app.use(express.urlencoded({extended: false}));
 app.use(express.json());
 
